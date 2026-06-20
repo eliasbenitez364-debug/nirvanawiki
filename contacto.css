@@ -1,0 +1,43 @@
+contacto.css
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+h2{
+    color: #f0cc04;
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #000000;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 1px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f0cc04;
+  padding: 20px;
+  width: 597px;
+  height: 538px;
+  margin: 0 auto;
+}

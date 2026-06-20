@@ -1,0 +1,141 @@
+cancion.css
+body {
+    background-color: black;
+  margin: 0;
+  padding: 0;
+
+}
+h2 {
+    color: #f0cc04;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+}
+p {
+    color: #f0cc04;
+    
+    font-size: 25px;
+}
+.p1 {
+    color: #ffffff;
+    
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+    
+    ul1 {
+    position: absolute;
+    font-size: 30px;
+     text-align: justify;
+     left:31% ;
+     top: 63%;
+    
+    }
+     ul2 {
+    position: absolute;
+    font-size: 30px;
+     text-align: justify;
+     left:31% ;
+     top: 104%;
+     transform: translateY(50%);
+    
+    }
+ul3 {
+    position: absolute;
+    font-size: 30px;
+     text-align: justify;
+     left:31% ;
+     top: 173.5%;
+     transform: translateY(50%);
+    
+    }
+    ul4 {
+     position: absolute;
+    font-size: 30px;
+     text-align: justify;
+     left:31% ;
+     top: 248%;
+     }
+    ul5 {
+     position: absolute;
+    font-size: 30px;
+     text-align: justify;
+     left:31% ;
+     top: 310%;
+     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    .container {
+  position: relative;
+  width: 30%;
+   
+  
+}
+
+.imag {
+  display: block;
+  width: 100%;
+  height: auto;
+  
+}
+
+
+.overlay {
+  position: absolute;
+  top: 0%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #f0cc04;
+}
+.container:hover .overlay {
+  opacity: 1;
+}
+.text {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

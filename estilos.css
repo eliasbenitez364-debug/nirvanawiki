@@ -1,0 +1,107 @@
+estilos.css
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url("nirvana de fondo.jpeg");
+  
+}
+ 
+   
+hr {
+  border: 1px solid #f0cc04;
+  margin: 20px 0;}
+
+
+  p1 {
+  position: absolute;
+    font-size: 22px;
+     text-align: justify;
+     left:33% ;
+     top: 127.3%;
+}
+p2 {
+  position: absolute;
+    font-size: 22px;
+     text-align: justify;
+     left:33% ;
+     top: 195%;
+}
+h2 {
+ font-size: 50px  
+    
+    ;
+}
+h3 {
+ font-size: 45px;
+}
+h4, h5 {
+ font-size: 30px;
+}
+header {
+      background-color:  #00000096;
+      color: #f0cd04;
+      padding: 10px;
+      text-align: ender;
+    }
+   
+    section{
+      
+      color: #f0cc04;
+      padding: 10px;
+      text-align: ender;
+      
+    }
+  
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #f0cd04a8;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #f0cc04;
+  color: white;
+}
+.inicio {
+   background-color: #f0cd0483;
+    color: #000000;
+    padding: 20px;
+     border-radius: 10px;
+     margin: 20px;         
+            }
+  
+
+  
+    footer {
+      background-color: #f0cc04;
+      color: #fffbb8;
+      padding: 10px;
+      text-align: center;
+     margin-top: 50px;
+     top: autor;
+    }
+
+body {
+  background-color: black;
+}
+
+
+
+  
